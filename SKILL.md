@@ -1,5 +1,5 @@
 ---
-name: interactive-lesson-creator
+name: gongkaike
 description: 面向中小学各学科公开课、校本研修和精品课例的沉浸式单文件 HTML 互动课件生成器。支持“公开课封面—知识导入—情境动画/全景观察—热点研学—平面交互—课题练习”的教学结构，适用于语文、数学、英语、科学、历史、地理、道德与法治等多学科，最终输出可离线双击打开的公开课级作品。
 author: 赵峰君 / Zhao Fengjun / 君君公开课
 ---
@@ -163,9 +163,6 @@ author: 赵峰君 / Zhao Fengjun / 君君公开课
 项目目录中保存以下内容：
 
 - `lesson.json`
-- `experience.html`
-- `experience.css`
-- `experience.js`
 - 全景场景素材
 - 热点局部图
 - 平面交互界面数据
